@@ -7,3 +7,8 @@ https://jsongrid.com/json-grid
 than find the values I need (name,price) and extracted the size from the name
 and than calculated size/price to rank the storages and sort them from biggest to smallest.
 to find most cheap and most expencive ssd storages of digikala
+
+## Run with this command: 
+```bash
+$ python python.digikala.api
+```
