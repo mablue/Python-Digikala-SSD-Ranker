@@ -1,6 +1,6 @@
 # Python-Digikala-SSD-Ranker
 A python script to get digikala SSD devices and rank them by size/price formula.
-I used firefox inspect > consule > xhr > searching api.digikala.com 
+I used firefox > [digikala.com ssd](https://www.digikala.com/search/category-internal-ssd/) > Right Click anywhere > inspect > console > xhr > searching api.digikala.com 
 to detect api url of digikala and than copy them in raw mode to this site:
 https://jsongrid.com/json-grid
 
